@@ -113,4 +113,3 @@ Alternatively, to save all changes made to working directory away and revert it 
 ```bash
 git stash -u
 ```
-
